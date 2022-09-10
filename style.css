@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Raleway:wght@100;300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    width: 1300px;
+    height: 900px;
+}
+.login{
+    display: flex;
+    float: right;
+    width: 718px;
+    height: 900px;
+    margin-left: 50px;
+    padding: 40px;
+}
+.login-details{
+    display: flex;
+} 
+.login-details i{
+    padding-left: 500%;
+}
